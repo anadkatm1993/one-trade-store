@@ -5,6 +5,8 @@ This Project is responsible for storing Trades information
 
 All apis are exposed as rest services and created using Springboot framework.
 
+H2 Database is used to store / fetch trades information
+
 The below functionalities are provided in this api :
 
 -> Fetch existing trades
